@@ -31,6 +31,6 @@ return [
         'all_permission_updated'  => 'Berechtigungen geändert: {group}',
         'permission_updated'      => 'Berechtigung geändert: {group} {operation}',
         'role_assigned'           => '{username} wurde die Rolle {role} zugewiesen.',
-        'role_assigned'           => '{username} wurde die Rolle {role} entzogen.',
+        'role_removed'            => '{username} wurde die Rolle {role} entzogen.',
     ],
 ];
