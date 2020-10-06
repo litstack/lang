@@ -5,7 +5,7 @@
 # Litstack Translations
 
 This repository contains the lang files for the [litstack](https://litstack.io)
-framework.
+framework. The translations are located in the `src` folder.
 
 ## Languages
 
