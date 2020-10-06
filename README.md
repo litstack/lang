@@ -11,10 +11,10 @@ framework. The translations are located in the `src` folder.
 
 <div class="languages-start"></div>
 
-| Code | Assignee                                 | Complete                                                        |
-| ---- | ---------------------------------------- | --------------------------------------------------------------- |
-| de   | [@litstack](https://github.com/litstack) | <img src="https://img.shields.io/badge/-1%20missing-%23f67693"> |
-| en   | [@litstack](https://github.com/litstack) | <img src="https://img.shields.io/badge/-complete-%239ff2ae">    |
+| Code | Assignee                                 | Complete                                                     |
+| ---- | ---------------------------------------- | ------------------------------------------------------------ |
+| de   | [@litstack](https://github.com/litstack) | <img src="https://img.shields.io/badge/-complete-%239ff2ae"> |
+| en   | [@litstack](https://github.com/litstack) | <img src="https://img.shields.io/badge/-complete-%239ff2ae"> |
 
 <div class="languages-end"></div>
 
