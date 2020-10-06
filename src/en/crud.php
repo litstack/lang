@@ -21,7 +21,7 @@ return [
     ],
 
     'fields' => [
-        'blocks' => [
+        'block' => [
             'expand'       => 'expand',
             'expand_all'   => 'expand all',
             'collapse_all' => 'collapse all',
