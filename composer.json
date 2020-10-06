@@ -7,5 +7,15 @@
 			"email": "lennart.carbe@gmail.com"
 		}
 	],
-	"require": {}
+	"autoload-dev": {
+		"psr-4": {
+			"Litstack\\Lang\\": "script/"
+		}
+	},
+	"require-dev": {
+		"illuminate/console": "^8.0",
+		"illuminate/container": "^8.0",
+		"illuminate/events": "^8.0",
+		"illuminate/filesystem": "^8.0"
+	}
 }
