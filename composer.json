@@ -1,0 +1,11 @@
+{
+	"name": "litstack/lang",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "cbl",
+			"email": "lennart.carbe@gmail.com"
+		}
+	],
+	"require": {}
+}
