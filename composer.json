@@ -7,6 +7,11 @@
 			"email": "lennart.carbe@gmail.com"
 		}
 	],
+	"autoload": {
+		"files": [
+			"script/helpers.php"
+		]
+	},
 	"autoload-dev": {
 		"psr-4": {
 			"Litstack\\Lang\\": "script/"
