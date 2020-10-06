@@ -12,6 +12,8 @@ return [
     |
     */
 
+    'sort_new_to_old'  => 'Neue zuerst',
+    'sort_old_to_new'  => 'Alte zuerst',
     'preview'          => 'Vorschau',
     'of'               => 'von',
     'n_items_selected' => ':count Element ausgewählt | :count Elemente ausgewählt',
