@@ -14,7 +14,7 @@ return [
     'login'             => 'Login',
     'do_login'          => 'Anmelden',
     'email_or_username' => 'E-mail oder Benutzername',
-    'remember_me'       => 'Passwort Merken',
+    'remember_me'       => 'Passwort merken',
     'forgot_password'   => 'Passwort vergessen',
     'failed'            => 'Ungültige Anmeldeinformationen.',
 ];

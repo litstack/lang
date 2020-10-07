@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'role_name'  => 'Rollen name',
+    'role_name'  => 'Rollenname',
     'operations' => [
         'lit-user-roles' => 'Benutzer Rollen',
         'lit-users'      => 'Benutzer',
