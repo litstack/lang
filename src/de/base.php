@@ -45,11 +45,11 @@ return [
     'device'           => 'Gerät',
     'close'            => 'schließen',
     'save'             => 'speichern',
-    'saved'            => 'gespeichern',
+    'saved'            => 'gespeichert',
     'cancel'           => 'abbrechen',
     'delete'           => 'löschen',
     'image'            => 'Bild',
-    'search'           => 'Durchsurchen',
+    'search'           => 'Durchsuchen',
     'first_name'       => 'Vorname',
     'last_name'        => 'Nachname',
     'username'         => 'Benutzername',
@@ -76,6 +76,6 @@ return [
     'toggle_all'       => 'alle an/aus',
     'messages'         => [
         'order_changed' => 'Reihenfolge erfolgreich geändert',
-        'are_you_sure'  => 'Sind sie sicher? Diese aktion kann nicht rückgängig gemacht werden.',
+        'are_you_sure'  => 'Sind sie sicher? Diese Aktion kann nicht rückgängig gemacht werden.',
     ],
 ];

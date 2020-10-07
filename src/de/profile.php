@@ -17,6 +17,6 @@ return [
     'current_password'     => 'Aktuelles Passwort',
     'change_password'      => 'Passwort ändern',
     'messages'             => [
-        'language' => 'Dies ist die Sprache in der Sie die Verwaltungsoberflache sehen.',
+        'language' => 'Dies ist die Sprache in der Sie die Verwaltungsoberfläche sehen.',
     ],
 ];

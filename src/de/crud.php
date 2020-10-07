@@ -26,7 +26,7 @@ return [
             'expand_all'   => 'Alle ausklappen',
             'collapse_all' => 'Alle einklappen',
             'messages'     => [
-                'new_block' => 'Neuen Block hinzugefügt (:type)',
+                'new_block' => 'Neuer Block hinzugefügt (:type)',
             ],
         ],
         'relation' => [
@@ -37,7 +37,7 @@ return [
                 'relation_linked'   => ':relation erfolreich verknüpft',
                 'relation_unlinked' => 'Verknüpfung aufgehoben.',
                 'confirm_unlink'    => 'Bitte bestätigen Sie, dass Sie die Verknüpfung aufheben möchten.',
-                'max_items_reached' => 'Es können maximal :count items ausgewählt werden..',
+                'max_items_reached' => 'Es können maximal :count items ausgewählt werden.',
             ],
         ],
         'wysiwyg' => [
@@ -47,7 +47,7 @@ return [
             'messages' => [
                 'max_depth'           => 'Die Liste kann maximal :count Ebenen verschachtelt werden.',
                 'confirm_delete'      => 'Soll :item Element wirklich gelöscht werden?',
-                'confirm_delete_info' => 'Wenn Sie diesen Element entfernen, entfernen Sie dadurch auch alle darunter befindlichen Elemente.',
+                'confirm_delete_info' => 'Wenn Sie dieses Element entfernen, entfernen Sie dadurch auch alle darunter befindlichen Elemente.',
             ],
         ],
         'media' => [
