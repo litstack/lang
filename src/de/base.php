@@ -12,6 +12,7 @@ return [
     |
     */
 
+    'no_item_found'    => 'Kein :item gefunden|Keine :item gefunden',
     'no_item_selected' => 'Kein :item ausgewählt',
     'item_delete'      => ':item löschen',
     'item_deleted'     => ':item gelöscht',

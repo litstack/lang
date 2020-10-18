@@ -12,6 +12,7 @@ return [
     |
     */
 
+    'no_item_found'    => 'No :item found',
     'no_item_selected' => 'No :item selected',
     'item_delete'      => 'delete :item',
     'item_deleted'     => ':item deleted',
