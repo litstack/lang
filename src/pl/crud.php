@@ -28,29 +28,29 @@ return [
             'expand_all'   => 'rozwiń wszystkie',
             'collapse_all' => 'zwiń wszystkie',
             'messages'     => [
-                'new_block' => 'Added new :type block',
+                'new_block' => 'Dodano nowy blok typu: :type',
 
             ],
         ],
         'relation' => [
-            'goto'     => 'Go to relation',
-            'unlink'   => 'Unlink relation',
-            'edit'     => 'Edit relation',
+            'goto'     => 'Idź do ralcji',
+            'unlink'   => 'Odłącz relację',
+            'edit'     => 'Edytuj relację',
             'messages' => [
-                'relation_linked'   => '{relation} successfully linked.',
-                'relation_unlinked' => 'Relation unlinked.',
-                'confirm_unlink'    => 'Please confirm that you wish to unlink the item.',
-                'max_items_reached' => 'A maximum of :count items can be selected.',
+                'relation_linked'   => '{relation} dołączono.',
+                'relation_unlinked' => 'Relacja odłączona.',
+                'confirm_unlink'    => 'Proszę potrwierdź odłączenie relacji.',
+                'max_items_reached' => 'Maksymalnie :count elemtów może być zaznaczonych.',
             ],
         ],
         'wysiwyg' => [
-            'new_window' => 'open in new window',
+            'new_window' => 'otwórz w nowym oknie',
         ],
         'list' => [
             'messages' => [
-                'max_depth'           => 'The list can be nested a maximum of :count levels.',
-                'confirm_delete'      => 'Should :item item really be deleted?',
-                'confirm_delete_info' => 'If you remove this item, you also remove all child items below it.',
+                'max_depth'           => 'Maksymalne zagnieżdżenie wynosli :count poziomów.',
+                'confirm_delete'      => 'Na pewno usunąć :item ?',
+                'confirm_delete_info' => 'Jeżeli usuniesz ten element, usuniesz również elemtny do niego należące.',
             ],
         ],
     ],
