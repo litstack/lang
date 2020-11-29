@@ -52,7 +52,9 @@ return [
         ],
         'media' => [
             'messages' => [
-                'image_uploaded' => 'Bild erfolgreich hochgeladen',
+                'image_uploaded'   => 'Datei erfolgreich hochgeladen',
+                'image_alt_hint'   => 'Alternativer Text (Text, der dieses Medium beschreibt) verbessert die Barrierefreiheit und das Nutzungserlebnis für Personen, die keine Bilder auf Webseiten sehen können, darunter Benutzer, die Screenreader-Anwendungen verwenden oder Verbindungen mit geringer Bandbreite haben.',
+                'image_title_hint' => 'Der Titel erscheint im Browser als Tooltip, wenn Sie den Mauszeiger über das Bild bewegen.',
             ],
         ],
     ],
