@@ -53,10 +53,17 @@ return [
                 'confirm_delete_info' => 'Jeżeli usuniesz ten element, usuniesz również elemtny do niego należące.',
             ],
         ],
+        'media' => [
+            'messages' => [
+                'image_uploaded'   => 'Plik pomyślnie przesłany.',
+                'image_alt_hint'   => 'Tekst alternatywny (opisujący to medium) poprawia dostępność i pomaga użytkownikom, którzy nie mogą widzień obrazów na stronach internetowych, wliczając użytkowników używających czytników ekranczytników lub posiadających słabe łącze internetowe.',
+                'image_title_hint' => 'Tytuł pojawia się w przeglądarce jako podpowiedź, jeśli przesuniesz wskaźnik myszy nad obraz.',
+            ],
+        ],
     ],
     'meta' => [
-        'title_hint'       => 'Easily understandable meaningful sentence. Gives an idea what the page content is about. Maximum :width wide.',
-        'keywords_hint'    => 'The most important keywords of the page content. Single (few) words separated by commas.',
-        'description_hint' => 'Short but meaningful summary of the page. Contains the most important keywords of the page content.',
+        'title_hint'       => 'Łatwo zrozumiałe, znaczące zdanie. Daje wyobrażenie, o czym jest treść strony. Maksymalna liczba zanków: :width.',
+        'keywords_hint'    => 'Najważniejsze słowa kluczowe zawartości strony. Pojedyncze (kilka) słów oddzielone przecinkami.',
+        'description_hint' => 'Krótkie, ale wymowne podsumowanie strony. Zawiera najważniejsze słowa kluczowe zawartości strony.',
     ],
 ];

@@ -12,11 +12,11 @@ return [
     |
     */
 
-    'new_password'         => 'New Passwort',
-    'new_password_confirm' => 'Confirm New Password',
-    'current_password'     => 'Current Passwort',
-    'change_password'      => 'Change Password',
+    'new_password'         => 'Nowe hasło',
+    'new_password_confirm' => 'Potwierdź nowe hasło',
+    'current_password'     => 'bieżące hasło',
+    'change_password'      => 'Zmień hasło',
     'messages'             => [
-        'language' => 'This is the language in which you see the administration interface.',
+        'language' => 'To jest język, w którym widzisz interfejs administracyjny.',
     ],
 ];
