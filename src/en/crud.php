@@ -53,6 +53,13 @@ return [
                 'confirm_delete_info' => 'If you remove this item, you also remove all child items below it.',
             ],
         ],
+        'media' => [
+            'messages' => [
+                'image_uploaded'   => 'File successfully uploaded.',
+                'image_alt_hint'   => 'Alternative text (text that describes this medium) improves accessibility and user experience for people who cannot see images on Web pages, including users who use screen reader applications or have low bandwidth connections.',
+                'image_title_hint' => 'The title appears in the browser as a tooltip, if you move the mouse pointer over the image.',
+            ],
+        ],
     ],
     'meta' => [
         'title_hint'       => 'Easily understandable meaningful sentence. Gives an idea what the page content is about. Maximum :width wide.',
