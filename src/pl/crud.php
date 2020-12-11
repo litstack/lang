@@ -33,7 +33,7 @@ return [
             ],
         ],
         'relation' => [
-            'goto'     => 'Idź do ralcji',
+            'goto'     => 'Idź do relacji',
             'unlink'   => 'Odłącz relację',
             'edit'     => 'Edytuj relację',
             'messages' => [
