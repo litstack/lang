@@ -19,7 +19,8 @@ return [
     'n_items_selected' => ':count item selected | :count items selected',
 
     'messages' => [
-        'not_created' => ':model has to be created in order to add <i>:relation</i>.',
+        'not_created'   => ':model has to be created in order to add <i>:relation</i>.',
+        'deleted_items' => 'Deleted :count item.|Deleted :count items.',
     ],
 
     'fields' => [

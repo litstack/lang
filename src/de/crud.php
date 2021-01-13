@@ -18,7 +18,8 @@ return [
     'of'               => 'von',
     'n_items_selected' => ':count Element ausgewählt | :count Elemente ausgewählt',
     'messages'         => [
-        'not_created' => ':model muss erstellt werden, um <i>:relation</i> hinzufügen zu können.',
+        'not_created'   => ':model muss erstellt werden, um <i>:relation</i> hinzufügen zu können.',
+        'deleted_items' => ':count Element wurde gelöscht.|:count Elemente wurden gelöscht.',
     ],
     'fields' => [
         'block' => [
