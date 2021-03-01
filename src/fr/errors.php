@@ -12,8 +12,8 @@ return [
     |
     */
 
-    'not_found'         => '',
-    'no_permission'     => '',
-    'server_error'      => '',
-    'too_many_requests' => '',
+    'not_found'         => 'Pas trouvé.',
+    'no_permission'     => 'Cette action n\'est pas autorisée!',
+    'server_error'      => 'Server Error.',
+    'too_many_requests' => 'Trop de demandes.',
 ];

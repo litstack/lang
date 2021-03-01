@@ -12,5 +12,5 @@ return [
     |
     */
 
-    'user_administration' => '',
+    'user_administration' => 'Gestion des utilisateurs',
 ];
