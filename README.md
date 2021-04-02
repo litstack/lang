@@ -17,6 +17,7 @@ framework. The translations are located in the `src` folder.
 | en   | [@litstack](https://github.com/litstack) | <img src="https://img.shields.io/badge/-complete-%239ff2ae"> |
 | fr   | [@Dezodev](https://github.com/Dezodev) | <img src="https://img.shields.io/badge/-complete-%239ff2ae"> |
 | fa   | [@alighasemzadeh](https://github.com/alighasemzadeh) | <img src="https://img.shields.io/badge/-complete-%239ff2ae"> |
+| pl   | [@glukash](https://github.com/glukash) | <img src="https://img.shields.io/badge/-complete-%239ff2ae"> |
 
 <div class="languages-end"></div>
 
