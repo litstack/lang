@@ -20,6 +20,7 @@ return [
 
     'messages' => [
         'not_created' => 'Najpierw należy zapisać aby móc dodać <i>:relation</i>.',
+        'deleted_items' => 'Usnunięto :count element.|Liczba usuniętych elementów: :count.',
     ],
 
     'fields' => [
