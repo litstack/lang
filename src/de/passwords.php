@@ -18,4 +18,9 @@ return [
     'throttled' => 'Bitte warten Sie, bevor Sie es erneut versuchen.',
     'token'     => 'Der Passwort-Wiederherstellungs-Schlüssel ist ungültig oder abgelaufen.',
     'user'      => 'Es konnte leider kein Nutzer mit dieser E-Mail-Adresse gefunden werden.',
+    'buttons'   => [
+        'send_reset' => 'Passworderinnerung senden',
+        'reset'      => 'Password zurücksetzen',
+        'resend'     => 'Erneut senden',
+    ],
 ];

@@ -18,4 +18,9 @@ return [
     'throttled' => 'Proszę zaczekać zanim spróbujesz ponownie.',
     'token'     => 'Token resetowania hasła jest nieprawidłowy.',
     'user'      => 'Nie znaleziono użytkownika z takim adresem e-mail.',
+    'buttons'   => [
+        'send_reset' => 'Wyślij link do resetowania',
+        'reset'      => 'Zresetuj hasło',
+        'resend'     => 'Wyślij ponownie',
+    ],
 ];
