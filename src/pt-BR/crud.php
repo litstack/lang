@@ -12,24 +12,24 @@ return [
     |
     */
 
-    'sort_new_to_old'  => 'New first',
-    'sort_old_to_new'  => 'Old first',
-    'preview'          => 'Preview',
-    'of'               => 'of',
-    'n_items_selected' => ':count item selected | :count items selected',
+    'sort_new_to_old'  => 'Novos primeiro',
+    'sort_old_to_new'  => 'Antigos primeiro',
+    'preview'          => 'Pré-visualizar ',
+    'of'               => 'de',
+    'n_items_selected' => ':count item selecionado | :count itens selecionados',
 
     'messages' => [
-        'not_created'   => ':model has to be created in order to add <i>:relation</i>.',
-        'deleted_items' => 'Deleted :count item.|Deleted :count items.',
+        'not_created'   => ':model tem que ser criado para adicionar <i>:relation</i>.',
+        'deleted_items' => 'Item :count excluído.|Itens :count excluídos.',
     ],
 
     'fields' => [
         'block' => [
-            'expand'       => 'expand',
-            'expand_all'   => 'expand all',
-            'collapse_all' => 'collapse all',
+            'expand'       => 'Expandir',
+            'expand_all'   => 'Expandir Todos',
+            'collapse_all' => 'recolher todos',
             'messages'     => [
-                'new_block' => 'Added new :type block',
+                'new_block' => 'Adicionado novo :type bloco',
 
             ],
         ],
