@@ -22,14 +22,14 @@ return [
         //
     ],
     'messages' => [
-        'cant_remove_admin_role'  => 'You cannot remove the Admin role from your account.',
-        'added_role'              => 'Created Role {role}.',
-        'deleted_role'            => 'Deleted Role {role}.',
-        'cant_delete_role'        => 'The Role {role} cannot be deletet.',
-        'confirm_delete_role_msg' => 'All users of the role <b>{role}</b> are assigned to the role <b>User</b>.',
-        'all_permission_updated'  => 'Permissions updated: {group}',
-        'permission_updated'      => 'Permission updated: {operation} {group}',
-        'role_assigned'           => '{username} was assigned the role {role}.',
-        'role_removed'            => 'Role {role} was removed from {username}.',
+        'cant_remove_admin_role'  => 'ناتوانیت ڕۆڵی بەڕێوەبەر لە هەژمارەکەت بسڕیتەوە.',
+        'added_role'              => 'ڕۆڵی {role} زیادکرا.',
+        'deleted_role'            => 'ڕۆڵی {role} سڕایەوە.',
+        'cant_delete_role'        => 'ڕۆڵی {role} ناتوانرێت بسڕدرێتەوە.',
+        'confirm_delete_role_msg' => 'هەموو بەکارهێنەرەکانی ڕۆڵی <b>{role}</b> بۆ ڕۆڵی <b>بەکارهێنەر</b> دیاریدەکرێن.',
+        'all_permission_updated'  => 'ڕێگەپێدانە نوێکراوەکان: {group}',
+        'permission_updated'      => 'ڕێگەپێدانی نوێکراوە: {operation} {group}',
+        'role_assigned'           => '{username} ڕۆڵی {role} بۆ دیاریکرا.',
+        'role_removed'            => 'ڕۆڵی {role} سڕایەوە لە {username}.',
     ],
 ];
