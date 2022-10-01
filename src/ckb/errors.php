@@ -16,3 +16,4 @@ return [
     'no_permission'     => 'ئەم کردارە ڕێگەپێنەدراوە!',
     'server_error'      => 'هەڵەی ڕاژە.',
     'too_many_requests' => 'داواکاری زۆر.',
+];
